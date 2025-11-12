@@ -1,0 +1,13 @@
+click
+dlib
+face-recognition
+face-recognition-models
+numpy
+opencv-python
+openpyxl
+pandas
+Pillow
+python-dateutil
+pytz
+six
+tzdata
