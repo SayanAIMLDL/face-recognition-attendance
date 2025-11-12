@@ -13,5 +13,3 @@ A robust, real-time attendance system built with Python, OpenCV, and the `face_r
     -   Processes video frames efficiently to reduce CPU load.
     -   The enrollment script validates that a face is clearly detected before saving an image.
 -   **Clean User Interface:** Provides clear on-screen visual feedback with colored boxes (green for known, red for unknown) and name labels.
-
-## Project Structure
